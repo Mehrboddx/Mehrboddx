@@ -20,9 +20,10 @@
   </a>
 </div>
 <hr>
-## 🛠️ Languages and Tools
-<br>
 
+##🛠️ Languages and Tools
+
+<br>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,git" />
   <img src= "https://skillicons.dev/icons?i=aws,gcp,azure" />
