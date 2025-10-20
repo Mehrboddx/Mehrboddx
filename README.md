@@ -24,9 +24,10 @@
 <br>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git" />
   <img src= "https://skillicons.dev/icons?i=aws,gcp,azure" />
   <img src="https://skillicons.dev/icons?i=git,kubernetes,docker" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
 <hr>
