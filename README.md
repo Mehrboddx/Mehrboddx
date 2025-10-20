@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working on my thesis project on Anomaly Detection of CANBus Signals. We are expecting publication thus the project is yet private.
 - 💡 I have previously worked on LLM's, Semantic Segmentation on tiny devices and natural language summarization of paper reviews. The repositories for my work are visible in my profile.
-- 💬 Ask me about **Machine/Deep Learning, LLMs, anomaly detection...or anything [here](https://github.com/mehrboddx/mehrboddx/issues)**
+- 💬 Ask me about **Machine/Deep Learning, LLMs, anomaly detection...or anything [here](https://github.com/mehrboddx/mehrboddx/issues)**.
 
 <br>
 
