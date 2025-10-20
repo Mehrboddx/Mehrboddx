@@ -24,6 +24,7 @@
 <br>
 
 <p align="center">
+  <img src= "https://skillicons.dev/icons?i=aws,azure" />
   <img src="https://skillicons.dev/icons?i=hadoop,spark,mongodb" />
   <img src="https://skillicons.dev/icons?i=html,css,js,git,python" />
 </p>
