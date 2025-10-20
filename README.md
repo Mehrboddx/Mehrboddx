@@ -1,4 +1,4 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mehrboddx)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Mehrbod+Nowrouz!;" />
+    <img src="[[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Mehrbod+Nowrouz.;Welcome+to+my+github+profile.)](https://git.io/typing-svg)](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Mehrbod+Nowrouz.;Welcome+to+my+github+profile.)" />
 </h1>
