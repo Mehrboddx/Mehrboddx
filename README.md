@@ -29,6 +29,7 @@
   <img src="https://skillicons.dev/icons?i=git,kubernetes,docker" />
     <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZd7jAMnXBbl_-pNXZnk8ttgq3fTAfk5aWhw&s"width="50" height="50" />
+    <img src= "https://images.icon-icons.com/2699/PNG/512/apache_spark_logo_icon_170560.png" width = "50" height = "50" />
 </p>
 
 <hr>
