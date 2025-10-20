@@ -35,13 +35,4 @@
 
 <hr>
 
-<br>
-
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=mehrboddx&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Mehrboddx's GitHub Stats" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=mehrboddx&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Mehrboddx's GitHub Streak" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehrboddx&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Mehrboddx's Most Used Languages" />
-</div>
-
-<hr>
 
