@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&width=435&lines=Hi%2C+I'm+Mehrbod+Nowrouz.;Welcome+to+my+github." />
 </h1>
 - 🌱 I’m currently working on my thesis project on Anomaly Detection of CANBus Signals. We are expecting publication thus the project is yet private.
-- 💬 Ask me about **Machine/Deep Learning, LLMs, anomaly detection...or anything [here](https://github.com/mehrboddx/mehrboddx/issues)**
+- 💬 Ask me about Machine/Deep Learning, LLMs, anomaly detection...or anything [here](https://github.com/mehrboddx/mehrboddx/issues)
 
 <br>
 
