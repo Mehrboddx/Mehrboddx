@@ -20,7 +20,7 @@
   </a>
 </div>
 ## 🛠️ Languages and Tools
-
+<hr>
 <br>
 
 <p align="center">
@@ -33,4 +33,4 @@
 </p>
 
 <hr>
-<hr>
+
